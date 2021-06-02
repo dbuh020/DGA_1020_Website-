@@ -1,0 +1,28 @@
+body{
+    background-color: cornflowerblue;
+}
+                  h1{ color:mintcream;
+font-family: monospace;
+font-size: 50px;
+text-align: center;
+border-style:dotted;
+}
+div{text-align: center;
+}
+h2{font-size: 20px;
+font-family: monospace;
+color:mintcream;}
+
+           
+            
+         h3{font-size: 25px; 
+            text-align: center;
+           font-family: monospace;
+           color:mintcream;
+    border-style: dotted;} 
+    p{font-size: 20px;
+        font-family: monospace;
+        color:mintcream;}
+ ul{font-size: 20px;
+    font-family: monospace;
+    color:mintcream;}
